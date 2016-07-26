@@ -31,3 +31,6 @@ caranya klik kanan folder <b>java</b> --> <b>New</b> --> <b>Package</b>
 <br><br>
 8. Final Struktur Projectnya :<br>
 <img src="8.PNG" width="40%">
+
+9. Sisanya sesuaikan dengan project yang sudah di download tadi, ada penjelasan fungsi fungsinya.<br>
+<b>Semoga Bermanfaat</b>
