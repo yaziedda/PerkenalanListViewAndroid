@@ -1,6 +1,6 @@
 # PerkenalanListViewAndroid
 
-<b>Download source coude </b>
+<b>Download source code nya TERLEBIH DAHULU </b>
 
 1. Buat Project Bernama <b>ArrayandListView</b>
 2. buat package seperti ini :
